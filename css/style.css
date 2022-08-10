@@ -354,4 +354,16 @@ ul, ol {
 p {
   margin: 0;
 }
+
+.l-header {
+  background-color: pink;
+}
+
+.l-main {
+  background-color: aliceblue;
+}
+
+.l-footer {
+  background-color: beige;
+}
 /*# sourceMappingURL=style.css.map */

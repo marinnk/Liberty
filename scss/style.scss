@@ -2,3 +2,8 @@
 @use "Foundation/base";
 @use "Foundation/variable";
 @use "Foundation/mixin";
+
+
+@use "Layout/header";
+@use "Layout/main";
+@use "Layout/footer";
